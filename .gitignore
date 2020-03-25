@@ -134,5 +134,5 @@ dmypy.json
 # JetBrains
 .idea/
 
-# pytest
-.pytest_cache/
+# Git
+.git/
